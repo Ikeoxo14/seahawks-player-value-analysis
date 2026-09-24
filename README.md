@@ -1,5 +1,4 @@
-# seahawks-player-value-analysis
-Excel analysis of nine Seattle Seahawks players comparing 2025 scrimmage yards, touchdowns, and cap hits by position.
+
 # 2025 Seahawks Player Value Analysis
 
 I’m a Seahawks fan, so I wanted to use something I enjoy to practice Excel and build a project for my business analyst portfolio. I looked at nine Seahawks running backs, receivers, and tight ends to see how their 2025 production compared with their cap hits.
